@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home dffd
 banner_image: "/img/banner.png"
 layout: landing-page
 heading: Belkirk College
