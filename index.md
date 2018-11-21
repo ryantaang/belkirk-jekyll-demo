@@ -7,6 +7,9 @@ partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: dfs
+  description: dsfsdf
+  icon: "/uploads/2018/02/25/car.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
@@ -16,10 +19,10 @@ services:
   heading: BioTech
   icon: "/uploads/2017/11/13/biotech.png"
 sub_heading: Engineering and Health Sciences
-textline: |
+textline: |-
   Belkirk College of Engineering
 
-  Ora et Labora
+  Ora et Laboracvvcvc
 hero_button:
   text: Learn more
   href: "/about"
